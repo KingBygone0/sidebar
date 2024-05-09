@@ -1,1 +1,1 @@
-This is my personal sidebar project
+This is my personal sidebar project. Thank You
